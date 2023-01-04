@@ -1,2 +1,2 @@
-import Home from './Home';
-export default Home
+import TextInputs from './TextInputs';
+export default TextInputs

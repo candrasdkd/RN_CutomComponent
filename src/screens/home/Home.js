@@ -7,9 +7,9 @@ import NavigationService from '../../helpers/NavigationService';
 const Home = () => {
     const data = [
         { id: 1, title: 'Cards', onNavigation: 'Cards', urlImage: 'https://cdn-icons-png.flaticon.com/512/4359/4359914.png' },
-        { id: 2, title: 'Text Input', onNavigation: 'TextInput', urlImage: 'https://cdn-icons-png.flaticon.com/512/7604/7604002.png' },
-        { id: 3, title: 'Calender', onNavigation: 'Calender', urlImage: 'https://cdn-icons-png.flaticon.com/512/8876/8876545.png' },
-        { id: 4, title: 'Modal', onNavigation: 'Modal', urlImage: 'https://cdn-icons-png.flaticon.com/512/6604/6604292.png' },
+        { id: 2, title: 'Text Input', onNavigation: 'TextInputs', urlImage: 'https://cdn-icons-png.flaticon.com/512/7604/7604002.png' },
+        { id: 3, title: 'Calender', onNavigation: 'Calenders', urlImage: 'https://cdn-icons-png.flaticon.com/512/8876/8876545.png' },
+        { id: 4, title: 'Modal', onNavigation: 'Modals', urlImage: 'https://cdn-icons-png.flaticon.com/512/6604/6604292.png' },
     ]
     return (
         <SafeAreaView style={{ flex: 1, backgroundColor: "#fff", paddingVertical: 20 }}>
